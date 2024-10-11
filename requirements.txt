@@ -1,0 +1,5 @@
+selenium==4.21.0
+colorama==0.4.6
+Pillow==10.0.0
+art==5.7
+keyboard==0.13.5
